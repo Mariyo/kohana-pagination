@@ -20,13 +20,17 @@
             "email": "seyferseed@mail.ru",
             "homepage": "http://seyferseed.ru",
             "role": "Developer"
-        }
+        },
+		{
+			"name": "Mario Palka",
+			"email": "palka@mariyo.eu",
+			"role": "Author"
+		}
     ],
     "require": {
         "php": ">=5.4",
         "composer/installers": "1.*"
     },
-    "minimum-stability": "stable",
     "autoload": {
         "classmap": [
             "classes/"
